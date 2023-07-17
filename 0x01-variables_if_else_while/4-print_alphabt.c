@@ -14,8 +14,8 @@ int main(void)
         if (alphabet == 'e' || alphabet == 'q')
             continue;
         
-        putchar(alphabet);
+        putchar (alphabet);
     }
     
-    return 0;
+    return(0);
 }
