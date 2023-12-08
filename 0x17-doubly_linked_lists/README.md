@@ -1,1 +1,1 @@
-This project is on double linked list
+This project is on doubly linked list
